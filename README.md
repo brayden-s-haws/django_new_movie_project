@@ -169,7 +169,3 @@ This describes the role of key files in the application:
 ## License
 
 This project is a learning exercise and is available for reference under the MIT License.
-
----
-
-**Note**: This README was written by Claude, but all code in this project was written by the project author as part of a Django learning course.
